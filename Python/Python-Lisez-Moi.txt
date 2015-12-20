@@ -1,0 +1,8 @@
+Date: 2015-12-19
+Création de la branche Python.
+Elle contient le code de développement en Python.
+Note: Les projets peuvent être de différentes versions de Python, en général, la version sera noté comme suis (VM.x) ou M sera 2 ou 3 et x l'indice de sous version. Si plusieurs versions sont supportées (VM.x-VN.y-V...).
+Chaque répertoire doit contenir un fichier XXX-Lisez-Moi.txt, ou XXX sera souvent le nom du répertoire, mais pas obligatoirement. 
+Premier ajout:
+	Hex2Bin(V2.x): Projet de conversion, voir Hex2Bin-Lisez-Moi.txt.
+

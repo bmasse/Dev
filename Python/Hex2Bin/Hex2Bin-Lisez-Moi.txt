@@ -1,0 +1,4 @@
+Date: 2015-12-19
+Conversion du fichier format Intel HEX en format binaire.
+Fait dans le cadre du projet de conversion des données ou code destinées à être programmées dans un ROM-EPROM... en format binaire.
+Le fichier ExplicationHexFormat.txt explique le format HEX de Intel.

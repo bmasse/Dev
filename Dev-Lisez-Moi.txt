@@ -3,3 +3,6 @@ Arbre de développement de mes projets personnels.
 Création de la branche "Dev" (git) sur le portail GitHub.
 
 Le but de cet arbre de travail est de consolider mes développements personnels dans un même endroit pour faciliter leurs réutilisations et leurs améliorations.
+
+Ajout de la section Python
+	Hex2Bin
