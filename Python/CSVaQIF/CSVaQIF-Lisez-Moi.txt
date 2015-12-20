@@ -1,0 +1,6 @@
+Conversion de fichier cvs au format qif.
+
+Fonctionne en tkinter et avec python 3.43.
+
+Il y aussi une version de conversion cvs vers OXF, mais pas certain du résultat.
+

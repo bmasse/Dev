@@ -5,4 +5,5 @@ Note: Les projets peuvent être de différentes versions de Python, en général, la
 Chaque répertoire doit contenir un fichier XXX-Lisez-Moi.txt, ou XXX sera souvent le nom du répertoire, mais pas obligatoirement. 
 Premier ajout:
 	Hex2Bin(V2.x): Projet de conversion, voir Hex2Bin-Lisez-Moi.txt.
-
+	CVSaQIF(V3.43): Conversion de fichiers CVS au format QIF.
+	Fonction-Import-Lib-Location(V3.43): Fonction démontrant comment faire des liens entre des fichiers, des librairies... et leur location dans le système.
