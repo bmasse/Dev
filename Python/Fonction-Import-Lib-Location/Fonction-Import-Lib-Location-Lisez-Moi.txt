@@ -1,0 +1,2 @@
+	Fonction-Import-Lib-Location(V3.43): Fonction démontrant comment faire des liens entre des fichiers, des librairies... et leur location dans le système.
+Voir le fichier Ben-Fonction-Import-Lib-Location.txt pour de plus ample renseignements.

@@ -1,0 +1,34 @@
+Tutoriel sur les imports dans Python.
+
+Voir le site:
+http://sametmax.com/les-imports-en-python/
+Les imports, c’était fastoche. Vous étiez dans votre petit programme, et pour importer un module de la lib standard, vous faisiez:
+...
+
+Les fichiers ben-testxxx.py et ben_test_xxx.py sont mais essais.
+
+Note 1:
+Il faut nommer les fichiers python avec des _ au lieu de - car pour l'insertion de module et autres, il est souvent fait appel au nom.
+Exemple:
+	import nom_du_module
+	from nom_du_module import sous_moudule
+
+SlickEdit, python bash et Python Shell, semblent ne pas se comporter toujours de la meme facon. C'est probablement du au faut des variables d'environnement et 
+autres parametres configuration.
+A faire attention.
+
+ben-test.py
+	Exemples d'importation classique.
+
+ben-test-001.py
+	Mauvais appel a un module defini plus haut, reference a la hiarchie des repertoires.
+
+ben-test-002.py
+	Astuce pour retrouver et ajouter les modules definis dans des repertoires superieurs.
+
+ben-test-003.py
+	Exemple d'insertion de modules.
+
+ben_test_004.py
+	Exemples d'utilisation de module avec le meme nom.
+	Exemple d'utilisation de @@@from __future__ import absolute_import@@@, utile dans 2.7 mais 3.x inclus le mecanisme par defaut.
